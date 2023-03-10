@@ -8,7 +8,7 @@ Main requirements:
 ### To run these applications
 - These applications requires a 2d robot navigation simulation running in ROS.
 - Robot odometry and a map should be published in order to plan trajectories.
-- All methods has simulation parameters like:
+- All methods has configurable simulation parameters like:
  
 >extension_r = 1.0 # In meters maximum extension distance of a branch
 
