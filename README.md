@@ -20,7 +20,7 @@ Main requirements:
 
 >xy_goal_tolerance = 0.2 # Goal region radius
 
-- **HAVE FUN**
+- **Have fun!**
 
 This repository contains the following path planner implementations:
 ### Probabilistic Roadmap Method (PRM) + A*
