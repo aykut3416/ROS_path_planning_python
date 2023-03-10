@@ -20,6 +20,8 @@ Main requirements:
 
 >xy_goal_tolerance = 0.2 # Goal region radius
 
+- **HAVE FUN**
+
 This repository contains the following path planner implementations:
 ### Probabilistic Roadmap Method (PRM) + A*
 <img src="https://github.com/aykut3416/ROS_path_planning_python/blob/main/PRM.gif" width="500" height="500">
