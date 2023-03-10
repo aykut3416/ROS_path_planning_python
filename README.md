@@ -5,6 +5,12 @@ Main requirements:
 - Cython
 - Numpy
 
+### To run these applications
+- These applications requires a 2d robot navigation simulation running in ROS.
+- Robot odometry and a map should be published in order to plan trajectories.
+- All methods has parameters like:
+- -ds
+
 This repository contains the following path planner implementations:
 ### Probabilistic Roadmap Method (PRM) + A*
 <img src="https://github.com/aykut3416/ROS_path_planning_python/blob/main/PRM.gif" width="500" height="500">
