@@ -7,5 +7,5 @@ Main requirements:
 
 This repository contains the following path planner implementations:
 ### Probabilistic Roadmap Method + A*
-![](https://github.com/aykut3416/ROS_path_planning_python/blob/main/PRM.gif)
+![](https://github.com/aykut3416/ROS_path_planning_python/blob/main/PRM.gif=250x250)
 
